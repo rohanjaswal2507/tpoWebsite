@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Script Eden ( http://scripteden.net/ ) Template Builder v2.0.0">  
+    <!--pageMeta-->
+
+    <!-- Loading Bootstrap -->
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Loading Flat UI -->
+    <link href="css/flat-ui.css" rel="stylesheet">
+    
+    <link href="css/style.css" rel="stylesheet">
+
+    <link href="css/style.complete.css" rel="stylesheet">
+    
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    
+    <!--headerIncludes-->
+     
+    
+</head>
+<body>           
+        <div class="wrapper ">
+        
+                <div class="container">
+            
+                    <nav role="navigation" class="navbar plain margin-top-20">
+                    
+                        <div class="navbar-header">
+                            <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
+                                <span class="sr-only">Toggle navigation</span>
+                            </button>
+                            <a href="#" class="navbar-brand" style="line-height: 60px; padding-left: 0px"><img alt="" src="images/nith_logo.jpg" style="height: 60px;">Training and Placement Cell</a>
+                        </div>
+                                    
+                        <div id="navbar-collapse-02" class="collapse navbar-collapse">
+                         <ul class="nav navbar-nav navbar-right">                 
+                                <li class="propClone"><a href="index.html">Home</a></li>
+                                 <li class="propClone"><a href="director.html">Director's Desk </a></li>
+                                <li class="propClone"><a href="placement_broucher12.pdf">Info Brochure</a></li>
+                                <li class="propClone"><a href="placement.html">Placement Record</a></li>
+                                <li class="propClone"><a href="company.html">Companies Visited</a></li>
+                                <li class="active propClone"><a href="tpr.html">TPRs </a></li>
+                                <li class="propClone"><a href="forms.html">Forms</a></li>
+                                <li class="propClone"><a href="contact.html">Contact </a></li>
+                               
+                            </ul>   
+                        </div><!-- /.navbar-collapse -->
+                        
+                    </nav>
+                </div>    
+
+        </div> 
+
+    	<div class="item team" id="team3">
+    		
+    		<div class="container">
+    
+
+                 
+
+            <div class="row margin-bottom-20">
+                
+                    <div class="col-md-12">
+                    
+                        <p class="lead text-center">
+                            Training and Placement Team 2015-16
+                        </p>
+                    
+                    </div><!-- /.col-md-12 -->
+                
+                </div><!-- /.row -->
+
+                <div class="row margin-bottom-20">
+                    <div id="tpoInfo" class="">
+                        <div class="col-md-10 col-md-offset-5">
+                           
+
+                                <img src="images/somesh.jpg" class="img-circle" >
+                                </br></br>
+                                
+                                <div class="about col-md-offset-0">
+                                    <h5 style="margin-left:20px;"> Dr. Somesh Sharma (TPO)</h5>
+                                 <p class="contacts" style="margin-left:20px";>
+                                        <span class="fa fa-envelope"></span> <a href="mailto">somesh@nith.ac.in </a><br>
+                                        
+                                        <span class="fa fa-mobile-phone"></span> <a href="">09805715100</a>
+                                        
+                                    </p>
+                                </div>
+                        </div>
+                    </div>
+                </div>    
+               
+                <div class="row margin-bottom-20">
+    			
+    				<div class="col-md-12">
+    				
+    					<p class="lead text-center">
+    						Training and Placement Representatives 2015-16
+    					</p>
+    				
+    				</div><!-- /.col-md-12 -->
+          		
+                </div><!-- /.row -->
+
+            
+                <!-- <div class ="row margin-bottom-40">
+                    <div class = "col-md-8 col-md-offset-5">
+                        <div class=" photo">
+                     
+                            <img src="images/team1.jpg" class="img-circle" alt="">
+                                    
+                        </div><br>
+
+                        <div class="">
+                            <h5>Training and Placement Officer </h5>
+                            <p>Dr. Somesh Sharma</p>
+                        </div>
+
+                        <p class="contacts">
+                            <span class="fa fa-envelope"></span> <a href="mailto">ankitsharma.kvs@gmail.com</a><br>
+                                        
+                            <span class="fa fa-mobile-phone"></span> <a href="">09736987671</a>
+                                        
+                        </p>
+                    </div>
+               </div>
+ -->
+                
+    			<div class="row margin-bottom-20">
+    			
+    				<div class="col-md-10 col-md-offset-1">
+    				
+    					<div class="row margin-bottom-40">
+    					
+    						<div class="col-md-6 clearfix">
+    						
+    							<div class="pull-left photo">
+    							
+    								<img src="images/ankit.jpg" class="img-circle" alt="">
+    								
+    							</div>
+    							
+    							<div class="pull-left about">
+    							
+    								<h5>Civil Engineering Department</h5>
+    							
+    								<p>
+    									Ankit Sharma (12166)
+    								</p>
+    								
+    								<p class="contacts">
+    									<span class="fa fa-envelope"></span> <a href="mailto">ankitsharma.kvs@gmail.com</a><br>
+    									
+                                        <span class="fa fa-mobile-phone"></span> <a href="">09736987671</a>
+                                        
+    								</p>
+    								
+    								<p class="social">
+    									
+                                        <a href="https://www.facebook.com/ankitsharma.kvs"><span class="fa fa-facebook-square"></span></a>&nbsp;&nbsp;
+    									
+                                        <a href=""><span class="fa fa-twitter-square"></span></a>&nbsp;&nbsp;
+    									
+                                        <a href="https://www.linkedin.com/profile/view?id=AAIAABZmjl0BOExz1eZnoOwVLgFhjqMQluvPx8s&trk=nav_responsive_tab_profile"><span class="fa fa-linkedin-square"></span></a>&nbsp;&nbsp;
+    									
+                                        <a href="https://plus.google.com/u/0/108551685931965746280/about"><span class="fa fa-google-plus-square"></span></a>
+      								
+                                    </p>
+    							
+    							</div>
+    						
+    						</div><!-- /.col-md-6 -->
+    						
+    						<div class="col-md-6 clearfix">
+    						
+    							<div class="pull-left photo">
+    							
+    								<img src="images/subham.jpg" class="img-circle" alt="">
+    								
+    							</div>
+    							
+    							<div class="pull-left about">
+    							
+    								<h5>Mechanical Engineering Department</h5>
+    							
+    								<p>
+    									Shubham Aggarwal (12321)
+    								</p>
+    								
+    								<p class="contacts">
+    									<span class="fa fa-envelope"></span> <a href="mailto">shubham17aggarwal@gmail.com</a><br>
+    									
+                                        <span class="fa fa-mobile-phone"></span> <a href="">09882129007</a>
+    								</p>
+    								
+    								<p class="social">
+    									<a href=""><span class="fa fa-facebook-square"></span></a>&nbsp;&nbsp;
+    									<a href=""><span class="fa fa-twitter-square"></span></a>&nbsp;&nbsp;
+    									<a href=""><span class="fa fa-linkedin-square"></span></a>&nbsp;&nbsp;
+    									<a href=""><span class="fa fa-google-plus-square"></span></a>
+    								</p>
+    							
+    							</div>
+    						
+    						</div><!-- /.col-md-6 -->
+    					
+    					</div><!-- /.row -->
+    					
+    					<div class="row margin-bottom-40">
+    					
+    						<div class="col-md-6 clearfix">
+    						
+    							<div class="pull-left photo">
+    							
+    								<img src="images/tekta.jpg" class="img-circle" alt="">
+    								
+    							</div>
+    							
+    							<div class="pull-left about">
+    							
+    								<h5>Computer Science & Engineering Department</h5>
+    							
+    								<p>
+    									Prikshit Tekta (12532)
+    								</p>
+    								
+    								<p class="contacts">
+    									<span class="fui-mail"></span> <a href="mailto">prikshittekta@gmail.com</a><br>
+    									
+                                        <span class="fa fa-mobile-phone"></span> <a href="">09882273873</a>
+    								</p>
+    								
+    								<p class="social">
+    									<a href=""><span class="fa fa-facebook-square"></span></a>&nbsp;&nbsp;
+    									<a href=""><span class="fa fa-twitter-square"></span></a>&nbsp;&nbsp;
+    									<a href=""><span class="fa fa-linkedin-square"></span></a>&nbsp;&nbsp;
+    									<a href=""><span class="fa fa-google-plus-square"></span></a>
+    								</p>
+    							
+    							</div>
+    						
+    						</div><!-- /.col-md-6 -->
+    						
+    						<div class="col-md-6 clearfix">
+    						
+    							<div class="pull-left photo">
+    							
+    								<img src="images/parul.jpg" class="img-circle" alt="">
+    								
+    							</div>
+    							
+    							<div class="pull-left about">
+    							
+    								<h5>Electronics & Communication Engineering Department</h5>
+    							
+    								<p>
+    									Parul Thakur(12401)
+    								</p>
+    								
+    								<p class="contacts">
+    									<span class="fui-mail"></span> <a href="mailto">parulthakur923@gmail.com</a><br>
+    									
+                                        <span class="fa fa-mobile-phone"></span> <a href="">09882785455</a>
+    								</p>
+    								
+    								<p class="social">
+    									
+                                        <a href="https://www.facebook.com/karan.pathak.7399"><span class="fa fa-facebook-square"></span></a>&nbsp;&nbsp;
+    									
+                                        <a href="https://twitter.com/Karan_Pathak_94https://www.linkedin.com/profile/view?id=AAIAABLqc-EB_Q-JOxurI_4-6glGOOHkVgxfr1w&trk=nav_responsive_tab_profile"><span class="fa fa-twitter-square"></span></a>&nbsp;&nbsp;
+    									
+                                        <a href="https://www.linkedin.com/profile/view?id=AAIAABLqc-EB_Q-JOxurI_4-6glGOOHkVgxfr1w&trk=nav_responsive_tab_profile"><span class="fa fa-linkedin-square"></span></a>&nbsp;&nbsp;
+    									
+                                        <a href="https://plus.google.com/u/0/100502274082290794749/posts"><span class="fa fa-google-plus-square"></span></a>
+    								</p>
+    							
+    							</div>   
+    						
+    						</div><!-- /.col-md-6 -->
+    					
+    					</div><!-- /.row -->
+
+                        <div class="row margin-bottom-40">
+                        
+                            <div class="col-md-6 clearfix">
+                            
+                                <div class="pull-left photo">
+                                
+                                    <img src="images/garg.jpg" class="img-circle" alt="">
+                                    
+                                </div>
+                                
+                                <div class="pull-left about">
+                                
+                                    <h5>Electrical Engineering Department</h5>
+                                
+                                    <p>
+                                        Shubham Garg (12201)
+                                    </p>
+                                    
+                                    <p class="contacts">
+                                        <span class="fa fa-envelope"></span> <a href="mailto">shubham.nith@gmail.com</a><br>
+                                        <span class="fa fa-mobile-phone"></span> <a href="">9882449688</a>
+                                    </p>
+                                    
+                                    <p class="social">
+                                        <a href="https://www.facebook.com/profile.php?id=100001669104144"><span class="fa fa-facebook-square"></span></a>&nbsp;&nbsp;
+                                        
+                                        <a href=""><span class="fa fa-twitter-square"></span></a>&nbsp;&nbsp;
+                                        
+                                        <a href=""><span class="fa fa-linkedin-square"></span></a>&nbsp;&nbsp;
+                                        
+                                        <a href=""><span class="fa fa-google-plus-square"></span></a>
+                                    </p>
+                                
+                                </div>
+                            
+                            </div><!-- /.col-md-6 -->
+                            
+                            <div class="col-md-6 clearfix">
+                            
+                                <div class="pull-left photo">
+                                
+                                    <img src="images/team1.jpg" class="img-circle" alt="">
+                                    
+                                </div>
+                                
+                                <div class="pull-left about">
+                                
+                                    <h5>Architecture Department</h5>
+                                
+                                    <p>
+                                        Sushant Pathania (10614)
+                                    </p>
+                                    
+                                    <p class="contacts">
+                                        
+                                        <span class="fa fa-envelope"></span> <a href="mailto">sushantpathania@gmail.com</a><br>
+                                        
+                                        
+                                        <span class="fa fa-mobile-phone"></span> <a href="">9882221837</a>
+                                    </p>
+                                    
+                                    <p class="social">
+                                        <a href=""><span class="fa fa-facebook-square"></span></a>&nbsp;&nbsp;
+                                        <a href=""><span class="fa fa-twitter-square"></span></a>&nbsp;&nbsp;
+                                        <a href=""><span class="fa fa-linkedin-square"></span></a>&nbsp;&nbsp;
+                                        <a href=""><span class="fa fa-google-plus-square"></span></a>
+                                    </p>
+                                
+                                </div>
+                            
+                            </div><!-- /.col-md-6 -->
+                        
+                        </div>
+    				
+    				</div><!-- /.col-md-8 -->
+    			
+    			</div><!-- /.row -->
+
+
+                <div class="row margin-bottom-40">
+                
+                    <div class="col-md-12">
+                    
+                        <p class="lead text-center">
+                            Assistant Training and Placemnet Representative 2015-16 
+                        </p>
+                    
+                    </div><!-- /.col-md-12 -->
+                
+                </div><!-- /.row -->
+
+                <div class="row">
+                
+                    <div class="col-md-10 col-md-offset-1">
+                        
+                        <div class="tableWrapper">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Roll No.</th>
+                                    <th>Branch</th>
+                                    <th>Phone No.</th>
+                                    <th>Email</th>
+                                </tr>
+                            </thead>
+                            <tbody> 
+                                <tr>
+                                    <td>Vaibhav Dua</td>
+                                    <td>12147</td>
+                                    <td>CED</td>
+                                    <td>09816578526</td>
+                                    <td>Vdua1993@gmail.com</td>
+                                </tr>
+                                <tr>
+                                    <td>Arun Muralee Dharan </td>
+                                    <td>12281</td>
+                                    <td>EEE</td>
+                                    <td>09805379454</td>
+                                    <td>Muralee.arun93@gmail.com</td>
+                                </tr>
+                                <tr>
+                                    <td>Aman Kumar Sharma </td>
+                                    <td>12387</td>
+                                    <td>MED</td>
+                                    <td>09882769719</td>
+                                    <td>Aman6706@gmail.com</td>
+                                </tr>
+                                <tr>
+                                    <td>Akshay Sharma </td>
+                                    <td>12519</td>
+                                    <td>CSE</td>
+                                    <td>09459734180</td>
+                                    <td>Akshaysharma07@gmail.com</td>
+                                </tr>
+                                <tr>
+                                    <td>Sobhit Kansal</td>
+                                    <td>12415</td>
+                                    <td>ECE</td>
+                                    <td>09882377067</td>
+                                    <td>sobhitkansal@gmail.com</td>
+                                </tr>
+                            </tbody>
+                        </table>    
+                        </div><!-- /.tableWrapper -->               
+                    
+                    </div><!-- ./col-md-8 -->
+                
+                </div><!-- /.row -->
+    			
+    		</div><!-- /.container -->
+    	
+    	</div><!-- /.item -->
+
+
+        <div class="copyright-bar bg-black">
+        <div class="container">
+            <div class="editContent">
+                <p class="pull-left small">© National Institiute of Technology Hamirpur</p>
+            </div>
+            <div class="editContent">
+                <p class="pull-right small">Made with <span class="fa fa-heart pomegranate"></span> in MMH</p>
+            </div>
+        </div>
+    </div>
+    <!--// END Footer Copyright Bar --></div><!-- /#page -->
+    
+ </body>   

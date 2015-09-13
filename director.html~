@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Script Eden ( http://scripteden.net/ ) Template Builder v2.0.0">  
+    <!--pageMeta-->
+
+    <!-- Loading Bootstrap -->
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Loading Flat UI -->
+    <link href="css/flat-ui.css" rel="stylesheet">
+    
+    <link href="css/style.css" rel="stylesheet">
+
+    <link href="css/style.complete.css" rel="stylesheet">
+    
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    
+    <!--headerIncludes-->
+     
+    
+</head>
+<body>           
+        <div class="wrapper ">
+        
+                <div class="container">
+            
+                    <nav role="navigation" class="navbar plain margin-top-20">
+                    
+                        <div class="navbar-header">
+                            <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
+                                <span class="sr-only">Toggle navigation</span>
+                            </button>
+                            <a href="#" class="navbar-brand" style="line-height: 60px; padding-left: 0px"><img alt="" src="images/nith_logo.jpg" style="height: 60px;">Training and Placement Cell</a>
+                        </div>
+                                    
+                        <div id="navbar-collapse-02" class="collapse navbar-collapse">
+                         <ul class="nav navbar-nav navbar-right">                 
+                                <li class="propClone"><a href="index.html">Home</a></li>
+                                 <li class="propClone"><a href="director.html">Director's Desk </a></li>
+                                <li class="propClone"><a href="placement_broucher12.pdf">Info Brochure</a></li>
+                                <li class="propClone"><a href="placement.html">Placement Record</a></li>
+                                <li class="propClone"><a href="company.html">Companies Visited</a></li>
+                                <li class="active propClone"><a href="tpr.html">TPRs </a></li>
+                                <li class="propClone"><a href="forms.html">Forms</a></li>
+                                <li class="propClone"><a href="contact.html">Contact </a></li>
+                               
+                            </ul>   
+                        </div><!-- /.navbar-collapse -->
+                        
+                    </nav>
+                </div>    
+
+        </div>
+    
+
+    <!-- Start Content Block 1-5 v2 -->
+    <section class="content-1-5 content-block">
+                
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-lg-offset-1 col-md-6 col-sm-12 pull-right">
+                    <div class="editContent">
+                        <h1>Director's Message</h1>
+                    </div>
+                    <div class="editContent">
+                        <p class="lead"> Prof. Rajnish Shrivastava  </p>
+                    </div>
+                    <div class="editContent">
+                        <p>NIT Hamirpur continues to produce world-class graduates and post graduates year after year. Particularly noteworthy is the increase in the number of post-graduates, both at the Masters' and Doctoral levels  who continue to be immediately absorbed by industry and academia all over the world.</p>
+
+                        <p>Our graduates are an integral part of India's growth story. The nation's best education system, along with the finest facilities has ensured that our students achieve excellence in their chosen fields.</p>
+
+                        <p>I am certain that our students, with the help of the Placement Office, will find their dream jobs. Equally, I am sure the organizations will appreciate the association of our students. I appreciate the Placement Office for their untiring  efforts and wish the students all the best in Placement 2015-16</p>
+
+                        Best Regards,<br>
+
+                        Prof. Rajnish Shrivastava</p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3  col-lg-offset-1 col-md-3 col-sm-12 pull-left">
+                    <img class=" img-responsive" src="images/fg1.png" style="padding-top:150px;  ">
+                </div>
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+        
+    </section>
+    <!-- // End Content Block 1-5 v2 -->
+
+
+
+    <div class="copyright-bar bg-black">
+        <div class="container">
+            <div class="editContent">
+                <p class="pull-left small">© National Institiute of Technology Hamirpur</p>
+            </div>
+            <div class="editContent">
+                <p class="pull-right small">Made with 
+                    <span class="fa fa-heart pomegranate">
+                        
+                    </span> in MMH</p>
+            </div>
+        </div>
+    </div>
+    <!--// END Footer Copyright Bar -->
+    

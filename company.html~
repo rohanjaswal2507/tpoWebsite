@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Script Eden ( http://scripteden.net/ ) Template Builder v2.0.0">  
+    <!--pageMeta-->
+
+    <!-- Loading Bootstrap -->
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Loading Flat UI -->
+    <link href="css/flat-ui.css" rel="stylesheet">
+    
+    <link href="css/style.css" rel="stylesheet">
+
+    <link href="css/style.complete.css" rel="stylesheet">
+    
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    
+    <!--headerIncludes-->
+     
+    
+</head>
+<body>
+
+ <div class="wrapper ">
+        
+                <div class="container">
+            
+                    <nav role="navigation" class="navbar plain margin-top-20">
+                    
+                        <div class="navbar-header">
+                            <button data-target="#navbar-collapse-02" data-toggle="collapse" class="navbar-toggle" type="button">
+                                <span class="sr-only">Toggle navigation</span>
+                            </button>
+                            <a href="#" class="navbar-brand" style="line-height: 60px; padding-left: 0px"><img alt="" src="images/nith_logo.jpg" style="height: 60px;">Training and Placement Cell</a>
+                        </div>
+                                    
+                        <div id="navbar-collapse-02" class="collapse navbar-collapse">
+                            <ul class="nav navbar-nav navbar-right">                 
+                                <li class="propClone"><a href="index.html">Home</a></li>
+                                 <li class="propClone"><a href="contact.html">Director's Desk </a></li>
+                                <li class="propClone"><a href="placement_broucher12.pdf">Info Brochure</a></li>
+                                <li class="propClone"><a href="placement.html">Placement Record</a></li>
+                                <li class="active propClone"><a href="company.html">Companies Visited</a></li>
+                                <li class="propClone"><a href="tpr.html">TPRs </a></li>
+                                <li class="propClone"><a href="forms.html">Forms</a></li>
+                                <li class="propClone"><a href="contact.html">Contact </a></li>
+                               
+                            </ul>                 
+                        </div><!-- /.navbar-collapse -->
+                        
+                    </nav>
+                </div>    
+            </div>
+
+
+            <div class="container">
+                        
+                <div class="row">
+                
+                    <div class="col-md-8 col-md-offset-2 ">
+
+                    <div class="editContent">
+                        <h2>
+                            Companies Visited
+                        </h2>
+                    </div>                     
+                    
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th data-field="id"  data-halign="center" data-align="center">S.No</th>
+                                <th  data-halign="center" data-align="center">Company Name</th>
+                             </tr>
+                         </thead>
+                        <tbody>
+                            <tr class="info">
+                                <td>1</td>
+                                <td>Belzabar</td>
+                            </tr>
+                            <tr >
+                                <td>2</td>  
+                                <td>Info Edge India Noida</td>
+                            </tr>
+                            <tr class="info">
+                                <td>3</td>
+                                <td>L&T Construction China</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Verizon</td>
+                            </tr>
+                            <tr class="info">
+                                <td>5</td>
+                                <td>Technip India Noida</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Oracle Mumbai</td>
+                            </tr>
+                            <tr class="info">
+                                <td>7</td>
+                                <td>GreyB Mohali</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>One 97 Noida</td>
+                            </tr>
+                            <tr class="info">
+                                <td>9</td>
+                                <td>Noida Power Company Noida</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>Drishti Soft Solutions Gurgaon</td>
+                            </tr>
+                             <tr class="info">
+                                <td>11</td>
+                                <td>Maruti </td>
+                            </tr>
+                             <tr>
+                                <td>12</td>
+                                <td>Alstom India Ltd Noida </td>
+                            </tr>
+                             <tr class="info">
+                                <td>13</td>
+                                <td>Hero Motor Corp. Delhi </td>
+                            </tr>
+                             <tr>
+                                <td>14</td>
+                                <td>Polaris Ft </td>
+                            </tr>
+                             <tr class="info">
+                                <td>15</td>
+                                <td>Ford Car India </td>
+                            </tr>
+                             <tr>
+                                <td>16</td>
+                                <td>Tata Housing Dev </td>
+                            </tr>
+                             <tr class="info">
+                                <td>17</td>
+                                <td>Maruti </td>
+                            </tr>
+                             <tr>
+                                <td>18</td>
+                                <td>Ramboll </td>
+                            </tr>
+                             <tr class="info">
+                                <td>19</td>
+                                <td>Tata Consultancy </td>
+                            </tr>
+                             <tr>
+                                <td>20</td>
+                                <td>Tata Power Delhi </td>
+                            </tr>
+                             <tr class="info">
+                                <td>21</td>
+                                <td>Nucleus Software Noida   </td>
+                            </tr>
+                            <tr>
+                                <td>22</td>
+                                <td>Sapient Delhi</td>
+                            </tr>
+                             <tr class="info">
+                                <td>23</td>
+                                <td>Godrej Mumbai </td>
+                            </tr>
+                             <tr>
+                                <td>24</td>
+                                <td>Orient Electric Delhi</td>
+                            </tr>
+                             <tr class="info">
+                                <td>25</td>
+                                <td>Jindal Steel Works(JSW) </td>
+                            </tr>
+                             <tr>
+                                <td>26</td>
+                                <td>Aakash Institute </td>
+                            </tr>
+                             <tr class="info">
+                                <td>27</td>
+                                <td>KEC Mumbai</td>
+                            </tr>
+                            <tr>
+                                <td>28</td>
+                                <td>Subros </td>
+                            </tr>
+                            <tr class="info">
+                                <td>29</td>
+                                <td>MuSigma </td>
+                            </tr>
+                            <tr>
+                                <td>30</td>
+                                <td>SAP Labs Bangalore </td>
+                            </tr>
+                            <tr class="info">
+                                <td>31</td>
+                                <td>ISGEC </td>
+                            </tr>
+                            <tr>
+                                <td>32</td>
+                                <td>SnapDeal </td>
+                            </tr>
+                            <tr class="info"> 
+                                <td>33</td>
+                                <td>S.K. Engineer </td>
+                            </tr>
+                            <tr>
+                                <td>34</td>
+                                <td>Play Buff Chandigarh </td>
+                            </tr>
+                            <tr class="info">
+                                <td>35</td>
+                                <td>Wipro</td>
+                            </tr>
+                            <tr>
+                                <td>36</td>
+                                <td>Reliance Jio Infocomm Ltd </td>
+                            </tr>
+                            <tr class="info">
+                                <td>37</td>
+                                <td>Bhushan Steel Ltd </td>
+                            </tr>
+                            <tr>
+                                <td>38</td>
+                                <td>Johnson & Johnson </td>
+                            </tr>
+                            <tr class="info">
+                                <td>39</td>
+                                <td>DRDO</td>
+                            </tr>
+                            <tr>
+                                <td>40</td>
+                                <td>Honda Car India</td>
+                            </tr>
+                            <tr class="info">
+                                <td>41</td>
+                                <td>Ashok Leyland</td>
+                            </tr>
+                            <tr>
+                                <td>42</td>
+                                <td>Punj Lloyd Ltd </td>
+                            </tr>
+                            <tr class="info">
+                                <td>43</td>
+                                <td>New Gen New Delhi</td>
+                            </tr>
+                            <tr>
+                                <td>44</td>
+                                <td>BPCL</td>
+                            </tr>
+                            <tr class="info">
+                                <td>45</td>
+                                <td>AFCON Infrastructure Ltd Mumbai</td>
+                            </tr>
+                            <tr>
+                                <td>46</td>
+                                <td>Atos India Pune</td>
+                            </tr>
+                            <tr class="info">
+                                <td>47</td>
+                                <td>Aricent Electronics</td>
+                            </tr>
+                            <tr>
+                                <td>48</td>
+                                <td>Ambuja Cement Ltd.</td>
+                            </tr>
+                            <tr class="info">
+                                <td>49</td>
+                                <td>ACC Limited Barmana</td>
+                            </tr>
+                            <tr>
+                                <td>50</td>
+                                <td>Bharat Petroleum Corporation Ltd</td>
+                            </tr>
+                            <tr class="info">
+                                <td>51</td>
+                                <td>Click Labs Private Ltd </td>
+                            </tr>
+                            <tr>
+                                <td>52</td>
+                                <td>Continental Automotives </td>
+                            </tr>
+                            <tr class="info">
+                                <td>53</td>
+                                <td>ACC Limited Barmana</td>
+                            </tr>
+                             <tr>
+                                <td>54</td>
+                                <td>Engineering Design and Research Pvt Ltd</td>
+                            </tr>
+                             <tr class="info">
+                                <td>55</td>
+                                <td>Exicom Tele Systems Ltd</td>
+                            </tr>
+                             <tr>
+                                <td>56</td>
+                                <td>Ericsson India Noida</td>
+                            </tr>
+                             <tr class="info">
+                                <td>57</td>
+                                <td>Era Group Noida </td>
+                            </tr>
+                             <tr>
+                                <td>58</td>
+                                <td>ACC Limited Barmana</td>
+                            </tr>
+                             <tr class="info">
+                                <td>59</td>
+                                <td>Polypex Hydro Group</td>
+                            </tr>
+                             <tr>
+                                <td>60</td>
+                                <td>Reliance Jio Infocomm Ltd</td>
+                            </tr>
+
+                             <tr class="info">
+                                <td>61</td>
+                                <td>IBM</td>
+                            </tr>
+
+                             <tr>
+                                <td>62</td>
+                                <td>ISGEC Heavy Engineering Ltd</td>
+                            </tr>
+
+                             <tr  class="info">
+                                <td>63</td>
+                                <td>Indag Rubber Ltd Nalagarh</td>
+                            </tr>
+
+                             <tr>
+                                <td>64</td>
+                                <td>Winshuttle</td>
+                            </tr>
+
+                             <tr class="info">
+                                <td>65</td>
+                                <td>VVF India Ltd</td>
+                            </tr>
+
+                             <tr>
+                                <td>66</td>
+                                <td>Venera Technologies Pvt Ltd</td>
+                            </tr>
+
+                             <tr class="info">
+                                <td>67</td>
+                                <td>Technip India Ltd</td>
+                            </tr>
+
+                             <tr>
+                                <td>68</td>
+                                <td>Sobha Developers Ltd</td>
+                            </tr>
+
+
+
+
+
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
+            </div>       
