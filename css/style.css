@@ -1,7 +1,7 @@
 /* general styles */
 
 p {
-	font-size: 16px;	
+	font-size: 16px;
 }
 
 h1 {
@@ -34,16 +34,16 @@ form .row {
 }
 
 #page {
-	
+
 }
 
 .item {
-	
+
 }
 
-.item.header {
+/*.item.header {
 	padding-bottom: 50px;
-}
+}*/
 
 .item.content, .item.portfolio, .item.team, .item.pricing, .item.contact {
 	padding-top: 60px;
